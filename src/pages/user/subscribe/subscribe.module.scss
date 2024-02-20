@@ -1,0 +1,129 @@
+.subscribe {
+    color: red;
+}
+
+.subscribe__block {
+    border-radius: 11.95px;
+    background-color: #fa884b;
+    padding: 32px 600px 79px 32px;
+    background-image: url("/public/subscribe_bg.svg"), url("/public/waves.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin-bottom: 23px;
+}
+
+.subscribe__block_title {
+    color: #ffffff;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31.87px;
+    width: 331px;
+}
+
+.subscribe__wrapper_title {
+    color: #11142d;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+.subscribe__name {
+    color: #242424;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    margin-bottom: 6px;
+}
+
+.subscribe__form {
+    box-sizing: border-box;
+    border: 1px solid #ededed;
+    border-radius: 16px;
+    background: #ffffff;
+    width: 343px;
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.subscribe__input {
+    border: none;
+    outline: none;
+}
+
+.subscribe__sel {
+    border: none;
+    outline: none;
+    width: 50px;
+}
+
+.subscribe__wrapper {
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px #0000000f;
+    background-color: #ffffff;
+    margin-top: 23px;
+    padding: 32px;
+}
+
+.subscribe__time {
+    color: #11142d;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+.block {
+    background-color: #f5f5f5;
+    margin-bottom: 30px;
+}
+
+.subscribe__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper {
+    display: flex;
+    width: 368px;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.text {
+    color: #242424;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+}
+
+.data {
+    color: #242424;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+}
+
+.cost {
+    color: #3f51b5;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+}
+
+.button {
+    color: #ffffff;
+    border-radius: 14px;
+    background-color: #3f51b5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    width: 368px;
+    padding:10px 0 ;
+}

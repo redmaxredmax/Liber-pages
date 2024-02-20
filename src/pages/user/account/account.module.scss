@@ -1,0 +1,58 @@
+.account__box {
+    border-radius: 20px;
+    background-color: #3f51b5;
+    width: 900px;
+    padding: 20px 26px;
+    margin-bottom: 36px;
+    background-image: url("/public/account_bg.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.account__block {
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px #0000000f;
+    background-color: #ffffff;
+    padding: 32px;
+}
+
+.account__title {
+    color: #11142d;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+.account__text {
+    color: #ffffff;
+    font-family: Cairo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    opacity: 0.8;
+}
+
+.account__cost {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+}
+
+.account__button {
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #ededed;
+    border-radius: 20px;
+    box-shadow: 0px 4px 9px 0px #00000008;
+    background: #ffffff;
+    width: 906px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.account__btn_img{
+    height: 20px;
+}
